@@ -13,7 +13,7 @@ Set up dependencies virtual environment:
 >    - In a terminal at the root of the frontend folder, install dependencies by running the command:
 >>        o npm install
 >    - In a terminal at the root of the backend folder, create a Python virtual environment called evadb-venv by running the command:
->>        o e.g. python -m venv evadb-venv
+>>        o python -m venv evadb-venv
 >    - In the same terminal, activate the virtual environment by running the command:
 >>        o source evadb-venv/bin/activate
 >    - After setting up the virtual environment, in the same terminal located at the root of the backend folder, install dependencies by running the command:
